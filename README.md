@@ -58,10 +58,9 @@ java Main
 
 ### Capturas del Planner
 
-<img src="Assets P5/Diseño.png" alt="" width="650"> 
-<img src="Assets P5/Desarrollo.png" alt="" width="650"> 
-<img src="Assets P5/Documentacion.png" alt="" width="650"> 
-<img src="Assets P5/Pruebas.png" alt="" width="650"> 
+<img src="Assets P5/Diseño.PNG" alt="300" width=""> <img src="Assets P5/Documentacion.PNG" alt="300" width=""> 
+
+ <img src="Assets P5/Desarrollo.PNG" alt="300" width="">  <img src="Assets P5/Pruebas.PNG" alt="300" width=""> 
 
 ---
 
